@@ -1,0 +1,89 @@
+.heading{
+    background-color: #FFB6C1;
+    background-size: 180%,180%;
+    position: relative;
+    height: 60vh;
+    padding: 100px;
+    color: azure;
+    text-align: center;
+    font-size: 2rem;
+}
+
+ h1{
+    font-family: "Sacramento",cursive;
+    font-weight:bold;
+}
+ 
+.resume img {
+    margin-top: 30px;
+    border-radius: 50%;
+    
+}
+
+.resume {
+    text-align: center;
+}
+
+.resume h1{
+    color: #008080;
+}
+
+.features{
+    display: grid;
+    grid-template-rows: 1fr,2fr;
+    grid-template-columns: 1fr,2fr;
+}
+
+.features h1{
+    margin-top: 70px;
+    text-align: center;
+    color: #008080;
+}
+
+.features img{
+    margin-left: 250px;
+    float: left;
+}
+
+.contact h1{
+    color: #008080;
+}
+
+.contact h3{
+    color: #008080;
+}
+
+.contact{
+    text-align: center;
+}
+   
+.plan-button{
+    background-color:#008080;
+    color:#fff;
+    border:none;
+    padding: 10px;
+    border-radius: 8%;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.contact h3{
+    margin-top: 20px;
+}
+
+.contact p{
+    margin-top: 30px;
+}
+
+.ending{
+    background-color: #FFB6C1;
+    text-align: center;
+    margin-top: 30px;
+    height: 40vh;
+    color: azure;
+
+}
+
+.ending footer{
+    padding: 30px;
+}
